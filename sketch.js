@@ -59,7 +59,7 @@ sling = new Sling(poly.body, { x: 200, y: 250 })
 
 function draw(){
 
-    background(backgroundImg);
+    background(0);
  
 
 
